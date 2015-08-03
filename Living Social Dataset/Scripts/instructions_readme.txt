@@ -1,0 +1,2 @@
+- Execute the scripts in the numerical order( 1,2,3..and so on)as the code in a later script may requre the objects of the previous ones.
+- Before running the scripts, place the csv file and scripts in the same working directory.

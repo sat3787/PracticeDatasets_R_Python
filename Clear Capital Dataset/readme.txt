@@ -1,0 +1,4 @@
+- Place ClearCapital.R and Examples.R in the working directory from where the script is executed
+- Open Examples.R and execute all the lines of this file
+- The functions are available in ClearCapital.R
+- Refer to the Report.pdf for explanation of the functionality and assumptions used.
